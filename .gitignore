@@ -1,0 +1,19 @@
+# node
+node_modules/
+
+# 빌드 결과물
+dist/
+build/
+.next/
+.out/
+coverage/
+
+# 환경 변수 파일
+.env
+.env.*
+
+# OS / 에디터 잡파일
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
